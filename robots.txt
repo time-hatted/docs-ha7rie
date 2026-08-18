@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-xmid8q.pulaucuan.org/sitemap.xml
